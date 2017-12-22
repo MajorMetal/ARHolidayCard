@@ -7,7 +7,7 @@ using UnityEngine;
 
 public class ImageSpawner : MonoBehaviour
 {
-
+    
 
     public Transform targetPos;
     GameObject spawnedImage;
@@ -17,7 +17,7 @@ public class ImageSpawner : MonoBehaviour
 
     void Start ()
     {
-
+        
     }
 
     void Update ()
@@ -52,6 +52,9 @@ public class ImageSpawner : MonoBehaviour
         }
         SpawnImage();
     }
+
+   
+    
 }
 
 
