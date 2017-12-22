@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Matt'sCastle/_Scenes/Amanda's Gift.unity
+  isLoaded: 1
+  isActive: 1
